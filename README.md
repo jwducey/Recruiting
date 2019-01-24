@@ -1,3 +1,3 @@
 # Recruiting
 
-Open Source Recruiting. I intend to share mt best practices for recruitment.
+Open Source Recruiting. I intend to share my best practices for recruitment.
